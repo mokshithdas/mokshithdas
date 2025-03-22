@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mokshithdas
 - 👀 I’m interested in developing software
-- 🌱 I’m currently learning react, node and flutter
+- 🌱 I’m a developer, can code in most languages apart from C.
 - 💞️ I’m looking to collaborate on any software development and analytics
 - 📫 How to reach me - email me at -> mokshith.bandi@gmail.com
 
